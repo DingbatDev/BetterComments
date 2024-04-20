@@ -1,5 +1,6 @@
 - **Branch vs16 :** VS2015, VS2017, and VS2019 on single vsix.
 - **Branch vs17 :** VS2022 only.
+- **Branch vs17 :** VS2022 from v17.9.
 ---------------------------------------
 
 
